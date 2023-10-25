@@ -14,7 +14,7 @@ import {
 
 const WC_PROJECT_ID = "2b7d5a2da89dd74fed821d184acabf95";
 const SIGN_ARBITRARY_MSG =
-  "Hi from Coinhall! This is a test message just to prove that the wallet is working.";
+  "Hi from Leap! This is a test message just to prove that the wallet is working.";
 const TX_MEMO = "signed via cosmes";
 
 const CHAINS: Record<string, string> = {
